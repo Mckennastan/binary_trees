@@ -55,5 +55,4 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 | `135-O` | File with the average time complexities of inserting a value, removing and searching a node on a Binary Heap |
 
 
-## Author
-* Abel Berhanu    - [Abel](https://github.com/abela12)
+
